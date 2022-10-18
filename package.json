@@ -1,7 +1,7 @@
 {
-	"name": "monokai-enhance-theme",
+	"name": "monokai-enhance",
 	"displayName": "Monokai Enhance",
-	"description": "A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.",
+	"description": "A Darker and Minimalist Monokai-Inspired Theme for VS Code.",
 	"icon": "public/logo.png",
 	"publisher": "syrizaldev",
 	"version": "1.0.0",
@@ -12,7 +12,8 @@
 	],
 	"author": {
 		"name": "Syahrizal",
-		"twitter": "https://twitter.com/syrizaldev"
+		"twitter": "https://twitter.com/syrizaldev",
+                "codepen": "https://codepen.io/syrizaldev"
 	},
 	"galleryBanner": {
 		"color": "#1a1a1a",
