@@ -722,14 +722,14 @@
 		},
 		{
 			"name": "Property name",
-			"scop": ["variable.other.property.js", "variable.other.property.ts"],
+			"scope": ["variable.other.property.js", "variable.other.property.ts"],
 			"settings": {
 				"foreground": "#f8f8f2"
 			}
 		},
 		{
 			"name": "Object property name",
-			"scop": ["variable.other.object.property.js", "variable.other.object.property.ts"],
+			"scope": ["variable.other.object.property.js", "variable.other.object.property.ts"],
 			"settings": {
 				"foreground": "#f8f8f2"
 			}
