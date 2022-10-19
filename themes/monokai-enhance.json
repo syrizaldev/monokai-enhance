@@ -138,7 +138,7 @@
 			"name": "Comment Markup Link",
 			"scope": "comment markup.link",
 			"settings": {
-				"foreground": "#6c707a"
+				"foreground": "#75715e"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 				"support.variable.object.node"
 			],
 			"settings": {
-				"foreground": "#fd971f"
+				"foreground": "#f8f8f2"
 			}
 		},
 		{
@@ -703,27 +703,33 @@
 			"name": "Classes",
 			"scope": ["support.class", "entity.name.type.class"],
 			"settings": {
-				"foreground": "#f8f8f2"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class.identifier.namespace.type",
+			"scope": ["entity.name.class", "entity.name.class.identifier.namespace.type"],
 			"settings": {
 				"foreground": "#f8f8f2"
 			}
 		},
 		{
 			"name": "Class name",
-			"scope": [
-				"entity.name.class",
-				"variable.other.class.js",
-				"variable.other.class.ts",
-				"variable.other.property.js",
-				"variable.other.property.ts",
-				"variable.other.object.property.js",
-				"variable.other.object.property.ts"
-			],
+			"scope": ["variable.other.class.js", "variable.other.class.ts"],
+			"settings": {
+				"foreground": "#f8f8f2"
+			}
+		},
+		{
+			"name": "Property name",
+			"scop": ["variable.other.property.js", "variable.other.property.ts"],
+			"settings": {
+				"foreground": "#f8f8f2"
+			}
+		},
+		{
+			"name": "Object property name",
+			"scop": ["variable.other.object.property.js", "variable.other.object.property.ts"],
 			"settings": {
 				"foreground": "#f8f8f2"
 			}
@@ -744,7 +750,7 @@
 		},
 		{
 			"name": "Keyword Control",
-			"scope": ["keyword.control", "keyword.control.conditional.js"],
+			"scope": ["keyword.control", "keyword.control.conditional.js", "keyword.control.conditional.ts"],
 			"settings": {
 				"foreground": "#f92672"
 			}
@@ -1170,14 +1176,16 @@
 			"name": "[VSCODE-CUSTOM] JSON Property Name",
 			"scope": "support.type.property-name.json",
 			"settings": {
-				"foreground": "#fd971f"
+				"foreground": "#66d9ef",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
 			"scope": "support.type.property-name.json punctuation",
 			"settings": {
-				"foreground": "#fd971f"
+				"foreground": "#66d9ef",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1489,36 +1497,36 @@
 			}
 		},
 		{
-			"name": "Import module JS",
+			"name": "Import module JS/TS",
 			"scope": ["keyword.operator.module"],
 			"settings": {
 				"foreground": "#66d9ef"
 			}
 		},
 		{
-			"name": "js Flowtype",
+			"name": "js/ts Flowtype",
 			"scope": ["support.type.type.flowtype"],
 			"settings": {
 				"foreground": "#a6e22e"
 			}
 		},
 		{
-			"name": "js Flow",
+			"name": "js/ts Flow",
 			"scope": ["support.type.primitive"],
 			"settings": {
 				"foreground": "#f8f8f2"
 			}
 		},
 		{
-			"name": "js class prop",
+			"name": "js/ts class prop",
 			"scope": ["meta.property.object"],
 			"settings": {
 				"foreground": "#fd971f"
 			}
 		},
 		{
-			"name": "js func parameter",
-			"scope": ["variable.parameter.function.js"],
+			"name": "js/ts func parameter",
+			"scope": ["variable.parameter.function.js", "variable.parameter.function.ts"],
 			"settings": {
 				"foreground": "#fd971f"
 			}
@@ -1814,7 +1822,7 @@
 			"name": "comments",
 			"scope": ["beginning.punctuation.definition.list.markdown.xi"],
 			"settings": {
-				"foreground": "#6c707a"
+				"foreground": "#75715e"
 			}
 		},
 		{
@@ -1881,7 +1889,7 @@
 			"name": "Comments",
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
-				"foreground": "#6c707a"
+				"foreground": "#75715e"
 			}
 		},
 		{
@@ -1902,19 +1910,6 @@
 			"scope": ["constant.language.symbol.elixir"],
 			"settings": {
 				"foreground": "#f92672"
-			}
-		},
-		{
-			"name": "js/ts italic",
-			"scope": [
-				"entity.other.attribute-name.js",
-				"entity.other.attribute-name.ts",
-				"entity.other.attribute-name.jsx",
-				"entity.other.attribute-name.tsx",
-				"variable.parameter,variable.language.super"
-			],
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
