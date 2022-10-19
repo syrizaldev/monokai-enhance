@@ -654,7 +654,7 @@
 			"name": "Language variables",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#f8f8f2"
+				"foreground": "#fd971f"
 			}
 		},
 		{
@@ -701,9 +701,9 @@
 		},
 		{
 			"name": "Classes",
-			"scope": ["support.class", "entity.name.type.class"],
+			"scope": ["support.class", "entity.name.type.class", "entity.name.type.interface"],
 			"settings": {
-				"foreground": "#66d9ef"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -745,7 +745,7 @@
 			"name": "Type Name",
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#f8f8f2"
+				"foreground": "#a6e22e"
 			}
 		},
 		{
@@ -1430,7 +1430,8 @@
 				"support.type.builtin.tsx"
 			],
 			"settings": {
-				"foreground": "#f8f8f2"
+				"foreground": "#66d9ef",
+				"fontStyle": "italic"
 			}
 		},
 		{
