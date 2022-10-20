@@ -15,3 +15,9 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 3. Click **Install** to Install it.
 4. Open the Command Palette with **Ctrl/Command + Shift + P**.
 5. Preferences: Color Theme > Choose **Monokai Enhance**.
+
+## Contributing
+
+If you found a problem or have a feature request, please open an [issue here](https://github.com/syrizaldev/monokai-enhance/issues).
+<br>
+And if you'd like to contribute to this theme, please read the [contributing guidelines](https://github.com/syrizaldev/monokai-enhance/CONTRIBUTING.md).
