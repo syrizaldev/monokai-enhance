@@ -6,7 +6,8 @@
 <br>
 
 A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
-<br>Removed Unnecessary Borders and Improved the Syntax Highlighting Colors.
+<br>
+Removed Unnecessary Borders and Improved the Syntax Highlighting Colors.
 
 ## Installation
 
@@ -20,4 +21,4 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 
 If you found a problem or have a feature request, please open an [issue here](https://github.com/syrizaldev/monokai-enhance/issues).
 <br>
-And if you'd like to contribute to this theme, please read the [contributing guidelines](https://github.com/syrizaldev/monokai-enhance/CONTRIBUTING.md).
+And if you'd like to contribute to this theme, please read the [contributing guidelines](./CONTRIBUTING.md).
