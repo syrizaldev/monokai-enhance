@@ -1103,14 +1103,14 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#66d9ef"
+				"foreground": "#f92672"
 			}
 		},
 		{
 			"name": "Storage JS TS",
 			"scope": "token.storage",
 			"settings": {
-				"foreground": "#66d9ef"
+				"foreground": "#f92672"
 			}
 		},
 		{
