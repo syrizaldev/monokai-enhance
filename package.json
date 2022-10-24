@@ -2,9 +2,9 @@
 	"name": "monokai-enhance",
 	"displayName": "Monokai Enhance",
 	"description": "A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.",
-	"icon": "public/monokai-enhance.png",
+	"icon": "public/LOGO.png",
 	"publisher": "lattestack",
-	"version": "1.0.0",
+	"version": "0.9.0",
 	"license": "MIT",
 	"categories": [
 		"Themes"
