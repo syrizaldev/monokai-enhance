@@ -11,6 +11,15 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 4. Open the Command Palette with **Ctrl/Command + Shift + P**.
 5. Preferences: Color Theme > Choose **Monokai Enhance**.
 
+## Screenshots
+
+<section>
+	<img src="./public/Screenshot-01.png" width="1280" alt="Screenshots">
+	<img src="./public/Screenshot-02.png" width="1280" alt="Screenshots">
+	<img src="./public/Screenshot-03.png" width="1280" alt="Screenshots">
+	<img src="./public/Screenshot-04.png" width="1280" alt="Screenshots">
+</section>
+
 ## Recommended Settings
 
 ```json
