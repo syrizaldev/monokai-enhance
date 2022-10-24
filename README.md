@@ -1,9 +1,4 @@
-# Monokai Enhance
-
-<div align="center">
-  <img src="https://i.ibb.co/MSQ7GGG/monokai-enhance.png" width="128" alt="Monokai Enhance">
-</div>
-<br>
+![Monokai Enhance](https://github.com/lattestack/monokai-enhance/blob/main/public/BANNER.png)
 
 A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 <br>Removed Unnecessary Borders and Improved the Syntax Highlighting Colors.
