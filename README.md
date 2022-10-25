@@ -1,4 +1,4 @@
-![Monokai Enhance](https://github.com/lattestack/monokai-enhance/blob/main/public/BANNER.png)
+![Monokai Enhance](https://raw.githubusercontent.com/lattestack/monokai-enhance/main/public/BANNER.png)
 
 A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 <br>Removed Unnecessary Borders and Improved the Syntax Highlighting Colors.
@@ -14,13 +14,13 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 ## Screenshots
 
 <section>
-   <img src="https://github.com/lattestack/monokai-enhance/blob/main/public/Screenshot-01.png" width="1280">
+   <img src="https://raw.githubusercontent.com/lattestack/monokai-enhance/main/public/Screenshot-01.png" width="1280">
    <br><br>
-   <img src="https://github.com/lattestack/monokai-enhance/blob/main/public/Screenshot-02.png" width="1280">
+   <img src="https://raw.githubusercontent.com/lattestack/monokai-enhance/main/public/Screenshot-02.png" width="1280">
    <br><br>
-   <img src="https://github.com/lattestack/monokai-enhance/blob/main/public/Screenshot-03.png" width="1280">
+   <img src="https://raw.githubusercontent.com/lattestack/monokai-enhance/main/public/Screenshot-03.png" width="1280">
    <br><br>
-   <img src="https://github.com/lattestack/monokai-enhance/blob/main/public/Screenshot-04.png" width="1280">
+   <img src="https://raw.githubusercontent.com/lattestack/monokai-enhance/main/public/Screenshot-04.png" width="1280">
 </section>
 
 ## Recommended Settings
