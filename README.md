@@ -29,12 +29,11 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 "editor.fontFamily": "'Fira Code', 'Operator Mono', 'Source Code Pro', 'Monaco'",
 "editor.fontSize": 15,
 "editor.lineHeight": 21,
-"editor.fontLigatures": false,
-"editor.bracketPairColorization.enabled": true,
 "editor.guides.bracketPairs": "active",
+"editor.bracketPairColorization.enabled": true,
 ```
 
 ## Contributing
 
 If you found a problem or have a feature request, please open an [issue here](https://github.com/lattestack/monokai-enhance/issues).
-<br>And if you'd like to contribute to this theme, please read the [contributing guidelines](./CONTRIBUTING.md).
+<br>And if you'd like to contribute to this theme, please read the [contributing guidelines](https://github.com/lattestack/monokai-enhance/CONTRIBUTING.md).
