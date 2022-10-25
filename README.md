@@ -36,6 +36,5 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 ## Contributing
 
 This theme are still under development. If you found a problem or have a feature request, please open an [issue here](https://github.com/lattestack/monokai-enhance/issues).
+<br>Any changes relevant to each version are documented in the [changelog file](https://github.com/lattestack/monokai-enhance/blob/main/CHANGELOG.md).
 
-Any changes relevant to each version are documented in the [changelog](https://github.com/lattestack/monokai-enhance/blob/main/CHANGELOG.md).
-Please update and check the changelog before submitting any issues.
