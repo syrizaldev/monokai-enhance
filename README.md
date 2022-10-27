@@ -13,10 +13,13 @@ A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.
 
 ## Screenshots
 
-![Screenshot](public/Screenshot-01.png)
-![Screenshot](public/Screenshot-02.png)
-![Screenshot](public/Screenshot-03.png)
-![Screenshot](public/Screenshot-04.png)
+![Screenshot-01](public/Screenshot-01.png)
+<br><br>
+![Screenshot-02](public/Screenshot-02.png)
+<br><br>
+![Screenshot-03](public/Screenshot-03.png)
+<br><br>
+![Screenshot-04](public/Screenshot-04.png)
 
 ## Recommended Settings
 
