@@ -3,15 +3,14 @@
 	"displayName": "Monokai Enhance",
 	"description": "A Darker and Minimalist Monokai-Inspired Theme for Visual Studio Code.",
 	"icon": "public/LOGO.png",
-	"publisher": "lattestack",
-	"version": "0.9.0",
+	"publisher": "syrizaldev",
+	"version": "1.0.0",
 	"license": "MIT",
 	"categories": [
 		"Themes"
 	],
 	"author": {
-		"name": "LatteStack",
-		"twitter": "https://twitter.com/syrizaldev"
+		"name": "Syahrizal"
 	},
 	"galleryBanner": {
 		"color": "#1a1a1a",
@@ -23,17 +22,18 @@
 		"monokai",
 		"minimalist",
 		"vscode-theme",
-		"monokai-theme"
+		"monokai-theme",
+		"monokai-enhance"
 	],
 	"engines": {
-		"vscode": "^1.72.0"
+		"vscode": "^1.43.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lattestack/monokai-enhance"
+		"url": "https://github.com/syrizaldev/monokai-enhance"
 	},
 	"bugs": {
-		"url": "https://github.com/lattestack/monokai-enhance/issues"
+		"url": "https://github.com/syrizaldev/monokai-enhance/issues"
 	},
 	"contributes": {
 		"themes": [
