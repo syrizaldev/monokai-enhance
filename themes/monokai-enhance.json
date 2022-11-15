@@ -738,6 +738,18 @@
 			}
 		},
 		{
+			"name": "Object name",
+			"scope": [
+				"variable.other.object.js",
+				"variable.other.object.ts",
+				"variable.other.object.jsx",
+				"variable.other.object.tsx"
+			],
+			"settings": {
+				"foreground": "#f8f8f2"
+			}
+		},
+		{
 			"name": "Object property name",
 			"scope": [
 				"variable.other.object.property.js",
@@ -1445,8 +1457,7 @@
 				"support.type.builtin.tsx"
 			],
 			"settings": {
-				"foreground": "#66d9ef",
-				"fontStyle": "italic"
+				"foreground": "#66d9ef"
 			}
 		},
 		{
@@ -2211,15 +2222,15 @@
 		"notificationsErrorIcon.foreground": "#fe413f",
 		"notificationsInfoIcon.foreground": "#008ae6",
 		"notificationsWarningIcon.foreground": "#cbc100",
-		"gitDecoration.addedResourceForeground": "#81b88b",
-		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
-		"gitDecoration.deletedResourceForeground": "#c74e39",
+		"gitDecoration.addedResourceForeground": "#5abf7d",
+		"gitDecoration.conflictingResourceForeground": "#5b5bbe",
+		"gitDecoration.deletedResourceForeground": "#c64e39",
 		"gitDecoration.ignoredResourceForeground": "#8c8c8c",
-		"gitDecoration.modifiedResourceForeground": "#e2c08d",
-		"gitDecoration.submoduleResourceForeground": "#8db9e2",
-		"gitDecoration.untrackedResourceForeground": "#73c991",
-		"gitDecoration.stageDeletedResourceForeground": "#c74e39",
-		"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
+		"gitDecoration.modifiedResourceForeground": "#d9ba8c",
+		"gitDecoration.submoduleResourceForeground": "#8cb4d9",
+		"gitDecoration.untrackedResourceForeground": "#5abf7d",
+		"gitDecoration.stageDeletedResourceForeground": "#c64e39",
+		"gitDecoration.stageModifiedResourceForeground": "#d9ba8c",
 		"merge.border": "#00000000",
 		"merge.commonContentBackground": "#282828",
 		"merge.commonHeaderBackground": "#383838",
